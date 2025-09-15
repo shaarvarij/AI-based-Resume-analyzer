@@ -1,0 +1,7 @@
+streamlit
+nltk
+pdfminer.six
+docx2txt
+transformers
+torch
+regex
